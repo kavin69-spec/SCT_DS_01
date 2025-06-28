@@ -19,5 +19,4 @@ The bar chart below illustrates the estimated population (in millions) across th
 - Python 3.x
 - [matplotlib](https://matplotlib.org/) – for data visualization
 
-## 📂 Project Structure
 
